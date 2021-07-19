@@ -53,7 +53,6 @@ class Bullet(Entity):
 
     # TODO add bullet movement
     # def update(self):
-        # self.position += Vec3(0, 0, 1) * time.dt
 
 
 class Target(Entity):
